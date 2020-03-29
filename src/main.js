@@ -6,6 +6,10 @@ import App from './App.vue'
 
 Vue.config.productionTip = false
 
+import FastClick from 'fastclick'
+
+FastClick.attach(document.body)
+
 new Vue({
   // router,
   render: h => h(App),

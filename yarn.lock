@@ -2763,17 +2763,7 @@ cssnano-util-same-parent@^4.0.0:
   resolved "https://registry.npm.taobao.org/cssnano-util-same-parent/download/cssnano-util-same-parent-4.0.1.tgz#574082fb2859d2db433855835d9a8456ea18bbf3"
   integrity sha1-V0CC+yhZ0ttDOFWDXZqEVuoYu/M=
 
-cssnano@^4.0.0:
-  version "4.1.10"
-  resolved "https://registry.npm.taobao.org/cssnano/download/cssnano-4.1.10.tgz#0ac41f0b13d13d465487e111b778d42da631b8b2"
-  integrity sha1-CsQfCxPRPUZUh+ERt3jULaYxuLI=
-  dependencies:
-    cosmiconfig "^5.0.0"
-    cssnano-preset-default "^4.0.7"
-    is-resolvable "^1.0.0"
-    postcss "^7.0.0"
-
-cssnano@^4.1.10:
+cssnano@^4.0.0, cssnano@^4.1.10:
   version "4.1.10"
   resolved "https://registry.yarnpkg.com/cssnano/-/cssnano-4.1.10.tgz#0ac41f0b13d13d465487e111b778d42da631b8b2"
   integrity sha512-5wny+F6H4/8RgNlaqab4ktc3e0/blKutmq8yNlBFXA//nSFFAqAngjNVRzUvCgYROULmZZUoosL/KSoZo5aUaQ==
@@ -3689,6 +3679,11 @@ fast-levenshtein@~2.0.4:
   version "2.0.6"
   resolved "https://registry.npm.taobao.org/fast-levenshtein/download/fast-levenshtein-2.0.6.tgz#3d8a5c66883a16a30ca8643e851f19baa7797917"
   integrity sha1-PYpcZog6FqMMqGQ+hR8Zuqd5eRc=
+
+fastclick@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/fastclick/-/fastclick-1.0.6.tgz#161625b27b1a5806405936bda9a2c1926d06be6a"
+  integrity sha1-FhYlsnsaWAZAWTa9qaLBkm0Gvmo=
 
 fastparse@^1.1.1:
   version "1.1.2"
